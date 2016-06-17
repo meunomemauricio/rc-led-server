@@ -4,4 +4,5 @@ A simple project that is supposed to control a RGB LED Strip or any kind of RGB 
 
 ## Dependencies
 
-- [Flask](https://pypi.python.org/pypi/Flask/0.11.1)
+- [Flask](https://pypi.python.org/pypi/Flask/0.11.1)=0.11.1
+- [PyQRCode](https://pypi.python.org/pypi/PyQRCode/1.2)=1.2

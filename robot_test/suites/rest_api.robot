@@ -3,6 +3,7 @@ Library  Process
 Library  libs/RestApiKeywords.py
 Test Setup  Start Flask App
 Test Teardown  Stop Flask App
+Force Tags  api
 
 
 *** Variables ***
